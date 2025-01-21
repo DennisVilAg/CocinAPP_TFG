@@ -1,0 +1,3 @@
+/build
+# Ignorar archivos con claves API
+google-services.json
