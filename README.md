@@ -1,5 +1,8 @@
 <p align="center">
-<strong>CocinApp es una aplicación desarrollada en busca de una solución al desperdicio de comida</strong>
+  <img src="images/Banner.png" alt="Banner CocinApp" width="100%">
+<h1 align="center">
+  <strong>CocinApp es una aplicación desarrollada en busca de una solución al desperdicio de comida</strong>
+  <h1/>
 </p>
 
 ---
@@ -44,8 +47,8 @@
 
 ## Tecnologías utilizadas
 <p align="center">
-🛠️ Kotlin 
-🛠️ Jetpack Compose
-🛠️ MVVM 
+🛠️ <strong>Kotlin</strong>
+  🛠️ <strong>Jetpack Compose</strong>
+  🛠️ <strong>MVVM</strong>
 </p>
 
