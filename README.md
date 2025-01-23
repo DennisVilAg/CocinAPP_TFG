@@ -1,7 +1,5 @@
 <p align="center">
-<h1 align="center">
-  <strong>CocinApp es una aplicación desarrollada en busca de una solución al desperdicio de comida</strong>
-  <h1/>
+<strong>CocinApp es una aplicación desarrollada en busca de una solución al desperdicio de comida</strong>
 </p>
 
 ---
@@ -16,6 +14,7 @@
 ---
 
 ## Login, registro y recetas
+
 <div style="display: flex; justify-content: center;">
   <img src="images/Screenshot_20250118_131520.png" alt="Welcome" width="200">
   <img src="images/Screenshot_20250118_131534.png" alt="Login" width="200">
@@ -25,7 +24,7 @@
 
 ## Filtro, favoritos y despensa
 
-<div style="display: flex; justify-content: center;gap:">
+<div style="display: flex; justify-content: center;">
   <img src="images/Screenshot_20250118_131914.png" alt="Filtro" width="200">
   <img src="images/Screenshot_20250118_131933.png" alt="Perfil" width="200">
   <img src="images/Screenshot_20250118_131947.png" alt="Despensa" width="200">
@@ -34,7 +33,7 @@
 
 ## Filtro, favoritos y despensa
 
-<div style="display: flex; justify-content: center; gap:">
+<div style="display: flex; justify-content: center;">
   <img src="images/Screenshot_20250118_132046.png" alt="CrearLista" width="200">
   <img src="images/Screenshot_20250118_132211.png" alt="ListaCompra" width="200">
   <img src="images/Screenshot_20250118_132218.png" alt="GestionCompra" width="200">
@@ -45,8 +44,8 @@
 
 ## Tecnologías utilizadas
 <p align="center">
-  🛠️ <strong>Kotlin</strong><br>
-  🛠️ <strong>Jetpack Compose</strong><br>
-  🛠️ <strong>MVVM</strong>
+🛠️ Kotlin 
+🛠️ Jetpack Compose
+🛠️ MVVM 
 </p>
 
