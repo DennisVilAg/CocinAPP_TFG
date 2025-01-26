@@ -19,7 +19,7 @@
 ## Login, registro y recetas
 
 <div style="display: flex; justify-content: center;">
-  <img src="images/Screenshot_20250118_131520.png" alt="Welcome" width="200">
+  <img src="images/Welcome.png" alt="Welcome" width="200">
   <img src="images/Screenshot_20250118_131534.png" alt="Login" width="200">
   <img src="images/Screenshot_20250118_131702.png" alt="Registro" width="200">
   <img src="images/Screenshot_20250118_131831.png" alt="Menu" width="200">
